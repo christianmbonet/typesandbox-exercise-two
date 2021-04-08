@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 0px 20px;
+  display: flex;
+  align-items: center;
+  height: 50px;
+  background-color: #fff;
+  box-shadow: 0 3px 6px 0 rgba(110, 112, 114, 0.21);
+}
+
+header span {
+  margin-left: auto;
+}
+
+header button {
+  margin-right: 10px;
+}
